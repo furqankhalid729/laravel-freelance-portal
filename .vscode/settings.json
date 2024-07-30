@@ -1,0 +1,24 @@
+{
+    "i18n-ally.localesPaths": [
+        "lang",
+        "resources/lang",
+        "Modules/Blog/Resources/lang",
+        "Modules/Chat/Resources/lang",
+        "Modules/CountryManage/Resources/lang",
+        "Modules/EmailTemplate/Resources/lang",
+        "Modules/Faq/Resources/lang",
+        "Modules/FreelancerChatController/Resources/lang",
+        "Modules/GeneralSettings/Resources/lang",
+        "Modules/Integrations/Resources/lang",
+        "Modules/NewsLetter/Resources/lang",
+        "Modules/Pages/Resources/lang",
+        "Modules/PaymentGatewaySettings/Resources/lang",
+        "Modules/PluginManage/Resources/lang",
+        "Modules/RolePermission/Resources/lang",
+        "Modules/Service/Resources/lang",
+        "Modules/Subscription/Resources/lang",
+        "Modules/SupportTicket/Resources/lang",
+        "Modules/Wallet/Resources/lang",
+        "resources/views/backend/pages/languages"
+    ]
+}
